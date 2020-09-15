@@ -1,10 +1,10 @@
-# DotnetProjectTemplate
+# LabMan
 
 ![dotnet](https://img.shields.io/badge/dotnet--core-3.1-blueviolet)
 ![csharp](https://img.shields.io/badge/C%23-8.0-brightgreen)
 ![nunit](https://img.shields.io/badge/Test-NUnit-brightgreen)
 
-A templated repository to configure dotnet projects much easier
+Laboratory Website Management Framework
 
 # Code Status
 
